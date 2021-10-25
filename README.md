@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Miguel Frantz 👋
 
-<!--
-**MiguelFrantz/MiguelFrantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as Frontend Architect at AmbevTech
 
-Here are some ideas to get you started:
+Front-end ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• React;
+• Angular;
+• TypeScript;
+• StyledComponents;
+• Redux;
+• Recoil;
+• Jest + Testing Library;
+• Jasmine;
+• Cypress;
+
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/miguel-airton-frantz-a350b2138/)
