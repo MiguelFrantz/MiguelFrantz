@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel Frantz 👋
 
-- 🔭 I’m currently working as Frontend Architect at AmbevTech
+Front-end at AmbevTech
 
 Front-end ❤
 
